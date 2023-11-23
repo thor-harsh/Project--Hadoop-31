@@ -16,7 +16,7 @@ Spark Streaming is the previous generation of Spark’s streaming engine. There 
 
 
 
-**Important Note: Go through the Marvel+Graph file before jumping to the code.**
+**Important Note: Go through the access_log.txt before jumping to the code.**
 
 </table>
 
