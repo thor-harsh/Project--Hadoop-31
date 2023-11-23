@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff. We have used spark streaming to count the total number of status code in the access log**.<br></br>
+**In this project We will use Spark with Python to do an amazing stuff. We have used spark streaming to count the total number of status code in the log folder which have access_log.txt file**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
