@@ -16,9 +16,6 @@ Spark Streaming is the previous generation of Spark’s streaming engine. There 
 
 
 
-**What is Breadth First Search**?<br></br>
-Breadth-First Search Algorithm or BFS is the most widely utilized method. BFS is a graph traversal approach in which you start at a source node and layer by layer through the graph, analyzing the nodes directly related to the source node. Then, in BFS traversal, you must move on to the next-level neighbor nodes.<br></br>
-
 **Important Note: Go through the Marvel+Graph file before jumping to the code.**
 
 </table>
