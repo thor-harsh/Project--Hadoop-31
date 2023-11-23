@@ -14,7 +14,6 @@ Apache Spark is an open-source unified analytics engine for large-scale data pro
 **What is Spark Streaming**?<br></br>
 Spark Streaming is the previous generation of Spark’s streaming engine. There are no longer updates to Spark Streaming and it’s a legacy project. There is a newer and easier to use streaming engine in Spark called Structured Streaming. You should use Spark Structured Streaming for your streaming applications and pipelines.<br></br>
 
-Spark SQL includes a cost-based optimizer, columnar storage and code generation to make queries fast. At the same time, it scales to thousands of nodes and multi hour queries using the Spark engine, which provides full mid-query fault tolerance. Don't worry about using a different engine for historical data.<br></br>
 
 
 **What is Breadth First Search**?<br></br>
